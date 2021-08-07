@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **seolh7/seolh7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 안드로이드 개발자를 꿈꾸는 학생입니다
